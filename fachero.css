@@ -118,7 +118,11 @@ div > #kiruto {
     right: 10%;
     position: absolute;
 }
+li a, :hover, :after {
+    color:#f4fefd;
+    text-decoration: none;
 
+}
 
 @media screen and (max-width: 850px) {
     #resto {
